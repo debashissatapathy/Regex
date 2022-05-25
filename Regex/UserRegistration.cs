@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RegularExpression
 {
-    class UserRegistration
+    public class UserRegistration
     {
         public bool FirstName(string FName)
         {
