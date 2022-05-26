@@ -2,9 +2,9 @@
 
 namespace RegularExpression
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to User Registration Problem Using Regular Expression!");
 
